@@ -1,3 +1,6 @@
+CMU RLM 16833 Spring 2022
+Team Members: Yolnan Chen, Sagar Sachdev, Troy Vicsik
+
 Software Used
 OS: Ubuntu 20.04 LTS
 

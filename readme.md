@@ -18,7 +18,7 @@ Python Scripts:
 -main.py; used to generate estimate trajectories
 -frame_to_frame.py; functions used to calculate frame to frame transformation
 -map.py; class definition of map object used to store poses and landmarks
--map_viewer.py; generates plots for results
+-traj_viewer.py; generates plots for results
 
 Other files:
 -absolute pose/*.txt; absolute poses stored as txt files
